@@ -10,7 +10,7 @@ The focus of this project was to compare GDP inflation to stock market value ove
 ## Process
 - Made an API call to GDP website  to retrieve data.
 - Gathered various (5 specific) stock information on the NASDAQ website.
-- Utilized HTML, Javascript, pandas, API and JQuery SmoothState. to clean and display data.
+- Utilized HTML, Javascript, pandas, API and JQuery SmoothState to clean and display data.
 - Made an API call to the GDP website to retrieve inflation data. 
 - Downloaded stock information from various companies with stocks
 
